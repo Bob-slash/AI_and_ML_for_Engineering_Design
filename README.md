@@ -2,7 +2,7 @@
 Machine Learning assignments and projects from MIT 2.155 Artificial Intelligence and Machine Learning for Engineering Design class.
 
 ## Challenge Problems
-Over the course of the course, we were tasked with different optimization, classification, and generation problems to solve over a course over a week.
+Over the course of the course, we were tasked with 2 different optimization, classification, and generation problems to solve over a course over a week.
 
 ## Final Project
 For my final project, I worked with 2 other team mates to create a meal-plan optimizer.
